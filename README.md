@@ -1,2 +1,5 @@
 # lazy_loading_plugin
-lazy loading pluggin for images
+javascript pluggin to create lazy loading of images inside the DOM
+
+## Implementation
+you just need to get the javascript files and copy them to your web project.
